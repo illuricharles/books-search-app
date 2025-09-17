@@ -39,16 +39,20 @@ It provides a clean interface to discover books by **title, author, subject, or 
 
 Follow these steps to run the project locally:
 
+**Clone the repository**
+
+  ```bash
+  git clone https://github.com/illuricharles/books-search-app.git
+  ```
+**Navigate to the project folder**
 ```bash
-# Clone the repository
-git clone https://github.com/illuricharles/books-search-app.git
-
-# Navigate to the project folder
 cd books-search-app
-
-# Install dependencies
+```
+**Install dependencies**
+```bash
 npm install
-
-# Start development server
+```
+**Start development server**
+```bash
 npm run dev
 ```
